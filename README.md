@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashmardikar [On a break, will be back soon]
+- 👋 Hi, I’m @yashmardikar
 - 👀 I’m interested in Programming and web technologies!
 - 🌱 I’m currently learning Scala, Datastructures and Algorithms.
 - 📫 How to reach me:
