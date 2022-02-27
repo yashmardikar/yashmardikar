@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashmardikar
 - 👀 I’m interested in Programming and web technologies!
-- 🌱 I’m currently learning Scala, Datastructures and Algorithms.
+- 🌱 I’m currently learning Datastructures and Algorithms.
 - 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/yashmardikar/
 Email: ymardika@asu.edu
